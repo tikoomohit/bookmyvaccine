@@ -1,4 +1,4 @@
-# bookmyvaccine
+# Now book COVID vaccine slot using bookmyslot
 Covid Vaccine booking for myself simplified
 
 
