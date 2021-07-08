@@ -1,8 +1,4 @@
 # Now book COVID vaccine slot using bookmyslot
-Covid Vaccine booking for myself simplified
-
-
-Demo of the app :
 
 ## Steps to book
 
@@ -23,3 +19,5 @@ Prerequisites:
 
 Note: Only 15 queries are allowed per login per cowin rules. Hence click "Start fetch" only when you recieve the notification on telegram group.
 Register on under45.in or above45.in for slot availibility notifications based on your age group.
+
+#Vaccine #Cowin #Covaxin #Covishield #Sputnik #Vaccination #CovidVaccination #SlotBooking #BookMySlot
