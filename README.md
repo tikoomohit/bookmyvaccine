@@ -7,7 +7,7 @@ Demo of the app :
 ## Steps to book
 
 Prerequisites:
-1. User should have signedup on the cowin website using a valid mobile number.
+1. User should have signedup on the <a href="https://selfregistration.cowin.gov.in/">Cowin</a> website using a valid mobile number.
 2. Benefeciaries should have been added into the signed up account. (You can add multiple benefeciaries(prefereably same ageGroup & same dose Vaccine) into the same account and book them using our webApp with single click).
 
 3. <a href="https://bookmyshot.netlify.app">Visit</a> our webApp and Login using the same mobile number into which beneficiaries are added.
