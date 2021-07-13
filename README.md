@@ -1,4 +1,4 @@
-# Now book COVID vaccine slot using bookmyslot
+# Now book COVID vaccine slot using bookmyshot
 
 ## Steps to book
 
